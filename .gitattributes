@@ -2,3 +2,4 @@ eclipse-inst-jre-win64[[:space:]](1).exe filter=lfs diff=lfs merge=lfs -text
 MS-102-2.pdf filter=lfs diff=lfs merge=lfs -text
 jf.exe filter=lfs diff=lfs merge=lfs -text
 OneDrive_2023-07-03.zip filter=lfs diff=lfs merge=lfs -text
+nuget.exe filter=lfs diff=lfs merge=lfs -text
